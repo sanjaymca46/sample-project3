@@ -1,1 +1,2 @@
 Hello form VS code
+changes in bug1
